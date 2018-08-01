@@ -14,7 +14,7 @@
 					<string>http://feisha169.com/ds/keke_signed.ipa</string>
 				</dict>
 				<dict>
-					<key>kind</key>
+					<key>kind</key> 
 					<string>display-image</string>
 					<key>url</key>
 					<string>https://down.dsu03.com/enterprise/57.png</string>
